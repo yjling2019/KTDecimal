@@ -1,5 +1,7 @@
 # KTDecimal
 
+Make NSDecimalNumber easy to use!
+
 [![CI Status](https://img.shields.io/travis/yjling2019@gmail.com/KTDecimal.svg?style=flat)](https://travis-ci.org/yjling2019@gmail.com/KTDecimal)
 [![Version](https://img.shields.io/cocoapods/v/KTDecimal.svg?style=flat)](https://cocoapods.org/pods/KTDecimal)
 [![License](https://img.shields.io/cocoapods/l/KTDecimal.svg?style=flat)](https://cocoapods.org/pods/KTDecimal)
