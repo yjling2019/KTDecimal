@@ -21,22 +21,13 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Lingyj2014@gmail.com/KTDecimal'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+  s.homepage         = 'https://github.com/yjling2019@gmail.com/KTDecimal'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Lingyj2014@gmail.com' => 'yjling2019@gmail.com' }
-  s.source           = { :git => 'https://github.com/Lingyj2014@gmail.com/KTDecimal.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.author           = { 'KOTU' => 'yjling2019@gmail.com' }
+  s.source           = { :git => 'https://github.com/yjling2019@gmail.com/KTDecimal.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'KTDecimal/Classes/**/*'
-  
-  # s.resource_bundles = {
-  #   'KTDecimal' => ['KTDecimal/Assets/*.png']
-  # }
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+    
 end

@@ -1,0 +1,23 @@
+PODS:
+  - Kiwi (3.0.0)
+  - KTDecimal (0.1.0)
+
+DEPENDENCIES:
+  - Kiwi
+  - KTDecimal (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Kiwi
+
+EXTERNAL SOURCES:
+  KTDecimal:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
+  KTDecimal: a3e2f221387d8152686f0f29b0e3ec1098de2389
+
+PODFILE CHECKSUM: 6de8b03840ecef1ba87ea4def89ab73d53c266a9
+
+COCOAPODS: 1.10.1

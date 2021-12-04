@@ -2,8 +2,8 @@
 //  KTAppDelegate.m
 //  KTDecimal
 //
-//  Created by Lingyj2014@gmail.com on 12/04/2021.
-//  Copyright (c) 2021 Lingyj2014@gmail.com. All rights reserved.
+//  Created by KOTU on 12/04/2021.
+//  Copyright (c) 2021 yjling. All rights reserved.
 //
 
 #import "KTAppDelegate.h"

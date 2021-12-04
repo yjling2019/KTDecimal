@@ -1,6 +1,6 @@
 # KTDecimal
 
-[![CI Status](https://img.shields.io/travis/Lingyj2014@gmail.com/KTDecimal.svg?style=flat)](https://travis-ci.org/Lingyj2014@gmail.com/KTDecimal)
+[![CI Status](https://img.shields.io/travis/yjling2019@gmail.com/KTDecimal.svg?style=flat)](https://travis-ci.org/yjling2019@gmail.com/KTDecimal)
 [![Version](https://img.shields.io/cocoapods/v/KTDecimal.svg?style=flat)](https://cocoapods.org/pods/KTDecimal)
 [![License](https://img.shields.io/cocoapods/l/KTDecimal.svg?style=flat)](https://cocoapods.org/pods/KTDecimal)
 [![Platform](https://img.shields.io/cocoapods/p/KTDecimal.svg?style=flat)](https://cocoapods.org/pods/KTDecimal)
@@ -22,7 +22,7 @@ pod 'KTDecimal'
 
 ## Author
 
-Lingyj2014@gmail.com, yjling2019@gmail.com
+KOTU, yjling2019@gmail.com
 
 ## License
 

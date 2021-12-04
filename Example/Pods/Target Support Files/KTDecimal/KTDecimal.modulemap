@@ -1,0 +1,6 @@
+framework module KTDecimal {
+  umbrella header "KTDecimal-umbrella.h"
+
+  export *
+  module * { export * }
+}
